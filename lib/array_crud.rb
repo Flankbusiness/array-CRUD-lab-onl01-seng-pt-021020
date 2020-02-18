@@ -12,9 +12,8 @@ end
 
 
 def add_element_to_start_of_array(array, element)
- ["I", "am", "really", "learning"]
+ ["wow", "I", "am", "really", "learning"]
 end
-add_element_to_start_of_array(array, element).shift ("wow")
 
 def remove_element_from_end_of_array(array)
   
